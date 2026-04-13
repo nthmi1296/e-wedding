@@ -238,7 +238,7 @@ $(document).ready(function () {
         },
         data: {
             // Event title
-            title: "Công Bình - Ngọc Lan Wedding",
+            title: "Công Bình and Ngọc Lan Wedding",
 
             // Event start date
             start: new Date('May 16, 2026 04:30'),
@@ -254,7 +254,7 @@ $(document).ready(function () {
             address: 'Đồng Nai',
 
             // Event Description
-            description: "Công Bình - Ngọc Lan Wedding",
+            description: "Công Bình and Ngọc Lan Wedding",
         }
     });
 
