@@ -238,23 +238,23 @@ $(document).ready(function () {
         },
         data: {
             // Event title
-            title: "Nhật Trường & Như Thủy Wedding",
+            title: "Công Bình & Ngọc Lan Wedding",
 
             // Event start date
-            start: new Date('Jan 17, 2026 04:30'),
+            start: new Date('May 16, 2026 04:30'),
 
             // Event duration (IN MINUTES)
             // duration: 120,
 
             // You can also choose to set an end time
             // If an end time is set, this will take precedence over duration
-            end: new Date('Jan 18, 2026 14:30'),
+            end: new Date('May 17, 2026 14:30'),
 
             // Event Address
             address: 'Thành Phố Hồ Chí Minh',
 
             // Event Description
-            description: "Nhật Trường & Như Thủy Wedding",
+            description: "Công Bình & Ngọc Lan Wedding",
         }
     });
 
@@ -277,7 +277,7 @@ $(document).ready(function () {
         console.log(data);
         
         $('#alert-wrapper').html(alert_markup('info', '<strong>Vui lòng đợi!</strong> Chúng tôi đang lưu lời chúc của bạn.'));
-        $.post('https://script.google.com/macros/s/AKfycby9dGqmVpUSeoIfy_tONkJlLDMsg5ZvplJzwwr3fqtxN8FdA4bry1yFZjhfBbCHgkSFag/exec', data)
+        $.post('https://script.google.com/macros/s/AKfycbxvPI7i5uFmEqBT-tkswdKvIZT0X5Zf4sUo-uq0LSSmpy9KD2Msj3wijJw9MeawrwWv/exec', data)
             .done(function (data) {
                 console.log(data);
                 if (data.result === "error") {
