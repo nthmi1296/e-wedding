@@ -251,7 +251,7 @@ $(document).ready(function () {
             end: new Date('May 17, 2026 14:30'),
 
             // Event Address
-            address: 'Thành Phố Hồ Chí Minh',
+            address: 'Đồng Nai',
 
             // Event Description
             description: "Công Bình & Ngọc Lan Wedding",
