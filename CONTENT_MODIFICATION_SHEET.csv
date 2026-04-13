@@ -1,0 +1,83 @@
+No,Category,Attribute,Current Value,File,Line,What to modify
+1,SEO,Page title,Nhật Trường & Như Thuỷ,src/index.html,13,Couple names in browser/tab title
+2,SEO,Meta description,We would like to invite you to our big day.,src/index.html,14,Invitation summary for search engines
+3,Branding,Theme color,#ffffff,src/index.html,16,Browser UI color
+4,SEO,OpenGraph title,Nhật Trường & Như Thuỷ,src/index.html,17,Social share title
+5,SEO,OpenGraph URL,https://www.truongthuy-wedding.com,src/index.html,18,Live website URL
+6,SEO,OpenGraph description,We would like to invite you to our big day.,src/index.html,19,Social share description
+7,SEO,OpenGraph image,https://www.truongthuy-wedding.com/img/background.jpg,src/index.html,20,Social share preview image URL
+8,Branding,Mask icon URL,https://github.githubassets.com/pinned-octocat.svg,src/index.html,25,Replace with your own mask icon
+9,Branding,Fluid icon URL,https://github.com/fluidicon.png,src/index.html,26,Replace with your own branding icon
+10,Branding,Top logo image,img/logo.png,src/index.html,79,Replace with your logo
+11,Navigation,Menu label,Invitation,src/index.html,83,Translate or rename section label
+12,Navigation,Menu label,Events,src/index.html,84,Translate or rename section label
+13,Navigation,Menu label,Photos,src/index.html,85,Translate or rename section label
+14,Navigation,Menu label,Maps,src/index.html,88,Translate or rename section label
+15,Navigation,Menu CTA,Your wishes,src/index.html,89,Translate or rename button text
+16,Branding,Hero logo image,img/logo-lg.png,src/index.html,104,Replace hero logo artwork
+17,CTA,Hero button text,Gửi lời chúc,src/index.html,111,Main call-to-action text
+18,Music,Autoplay bootstrap audio,musics/begin.mp3,src/index.html,73,Startup audio file
+19,Intro,Date text (VI),Ngày 17 & 18 tháng 01, 2026.,src/index.html,131,Main displayed date
+20,Intro,Date text (EN),January 17th & 18th 2026,src/index.html,134,English displayed date
+21,Intro,Couple names display,Nhaät Tröôøng & Nhö Thuyû,src/index.html,142,Main couple names heading
+22,Intro,Invitation paragraph,"Chào mọi người... Hẹn gặp mọi người ạ",src/index.html,149,Personal invitation message
+23,Intro,Countdown labels,"Ngày, Giờ, Phút, Giây",src/index.html,160,Localize countdown unit labels
+24,Photos,Profile image (groom),img/groom.png,src/index.html,147,Replace with groom image
+25,Photos,Profile image (bride),img/bride.png,src/index.html,180,Replace with bride image
+26,Events,Events section title,Sự Kiện (Events),src/index.html,195,Section heading text
+27,Events,Event date block 1,"Thứ Bảy... Saturday, January 17th 2026",src/index.html,201,Event day/date text
+28,Events,Event 1 name,Thánh Lễ Hôn Phối (Catholic Wedding Mass),src/index.html,203,Event title
+29,Events,Event 1 time/location,"09:00 AM tại GX TÂN THÀNH",src/index.html,204,Time and venue summary
+30,Events,Event 1 description (VI+EN),Paragraphs under event 1,src/index.html,206,Event description text
+31,Events,Event 2 name,Vu Quy,src/index.html,220,Event title
+32,Events,Event 2 time/location,"11:00 AM tại Sảnh Peridot...",src/index.html,221,Time and venue summary
+33,Events,Event 2 description (VI+EN),Paragraphs under event 2,src/index.html,223,Event description text
+34,Events,Event date block 2,"Chủ Nhật... Sunday, January 18th 2026",src/index.html,237,Event day/date text
+35,Events,Event 3 name,Tân Hôn (Wedding),src/index.html,239,Event title
+36,Events,Event 3 time/location,"11:00 AM tại tư gia",src/index.html,240,Time and venue summary
+37,Events,Event 3 description (VI+EN),Paragraphs under event 3,src/index.html,241,Event description text
+38,Gallery,Gallery title,Pre-Wedding Photos,src/index.html,263,Section heading text
+39,Gallery,Album image list,img/album/thuy-truong_*.jpg,src/index.html,271,Replace all gallery photos (lines 271-355)
+40,Maps,Maps section title,Bản đồ (Maps),src/index.html,387,Section heading text
+41,Maps,Google embed URL (Thánh Lễ),iframe src for #map-canvas-tl,src/index.html,393,Embed map location
+42,Maps,Google embed URL (Vu Quy),iframe src for #map-canvas-vq,src/index.html,392,Embed map location
+43,Maps,Google embed URL (Tân Hôn),iframe src for #map-canvas-th,src/index.html,391,Embed map location
+44,Maps,Open map link (Thánh Lễ),https://maps.app.goo.gl/zHsMZRJQFvn2fW1a6,src/index.html,406,Clickable external map link
+45,Maps,Open map link (Vu Quy),https://maps.app.goo.gl/sGcPHmtcLrk4QMAK7,src/index.html,411,Clickable external map link
+46,Maps,Open map link (Tân Hôn),https://maps.app.goo.gl/Y7mgfkDRg4G8Z7N89,src/index.html,416,Clickable external map link
+47,Maps,Venue name/address block 1,"Nhà Thờ Giáo Xứ Tân Thành + address",src/index.html,407,Displayed venue name and address
+48,Maps,Venue name/address block 2,"Sảnh Peridot... + address",src/index.html,412,Displayed venue name and address
+49,Maps,Venue name/address block 3,"Tại Tư Gia + address",src/index.html,417,Displayed venue name and address
+50,RSVP,Thank-you modal title,Thank you!,src/index.html,439,Modal heading after submit
+51,RSVP,Thank-you modal message,Sự hiện diện của quý vị...,src/index.html,440,Modal body message
+52,RSVP,Wishes section title,Gửi lời chúc hôn,src/index.html,451,Section heading text
+53,RSVP,Wishes section subtitle,Send us your best wishes,src/index.html,452,Section subtitle text
+54,RSVP,Form endpoint (HTML action),"" (empty),src/index.html,454,If using normal form submit endpoint
+55,RSVP,Name placeholder,Người gửi (Sender),src/index.html,457,Input placeholder text
+56,RSVP,Message placeholder,Lời chúc (Wishes),src/index.html,460,Textarea placeholder text
+57,RSVP,Submit button text,Gửi,src/index.html,467,Button label text
+58,Gift,Bank modal heading,Vui lòng quét mã bằng ứng dụng ngân hàng,src/index.html,481,Gift instruction text
+59,Gift,QR image,img/QRbank.png,src/index.html,482,Replace with your bank QR image
+60,Gift,Copy button label,Copy STK,src/index.html,486,Button text
+61,Gift,Gift section title,Gửi quà cưới,src/index.html,497,Section heading text
+62,Footer,Footer quote,"Sự gì Thiên Chúa đã kết hợp...",src/index.html,515,Quote/scripture text
+63,Footer,Contact email/mailto,josebeo2016@gmail.com,src/index.html,518,Owner/support email
+64,Footer,Contact label,Liên hệ làm wedding website: josebeo2016,src/index.html,518,Footer contact text
+65,Branding,Blur modal image,img/login.png,src/index.html,537,Overlay intro image
+66,Music,Playlist files,"everytimewetouch, perfect, athoudsandyear, marryyou, lovestory",src/index.html,549,Replace playlist tracks
+67,Analytics,Google Analytics ID,UA-46465113-4,src/index.html,621,Replace or remove analytics tracking
+68,Logic,Countdown target datetime,2026-01-17T04:29:59,src/js/scripts.js,204,Countdown target date/time
+69,Calendar,Calendar event title,Nhật Trường & Như Thủy Wedding,src/js/scripts.js,241,Calendar event title
+70,Calendar,Calendar start datetime,"Jan 17, 2026 04:30",src/js/scripts.js,244,Calendar start datetime
+71,Calendar,Calendar end datetime,"Jan 18, 2026 14:30",src/js/scripts.js,251,Calendar end datetime
+72,Calendar,Calendar address,Thành Phố Hồ Chí Minh,src/js/scripts.js,254,Calendar location/address
+73,Calendar,Calendar description,Nhật Trường & Như Thủy Wedding,src/js/scripts.js,257,Calendar description
+74,RSVP,Google Apps Script endpoint,https://script.google.com/macros/s/AKfycby9dGqmVpUSeoIfy_tONkJlLDMsg5ZvplJzwwr3fqtxN8FdA4bry1yFZjhfBbCHgkSFag/exec,src/js/scripts.js,280,Replace with your own form backend URL
+75,Gift,Bank account number for copy,8874004137,src/js/scripts.js,197,Replace recipient account number
+76,Build,Production JS mirror of fields,scripts.min.js contains same values,src/js/scripts.min.js,1,If you edit scripts.js manually also update scripts.min.js or rebuild minified file
+77,PWA,App name,"" (empty),src/manifest.json,2,Set installable app name
+78,PWA,Icon files,android-chrome-192x192.png and 256x256.png,src/manifest.json,5,Replace app icons if branding changes
+79,PWA,PWA theme color,#ffffff,src/manifest.json,15,Set theme color
+80,PWA,PWA background color,#ffffff,src/manifest.json,16,Set launch background color
+81,Browser Tile,Windows tile logo,/apple-touch-icon.png,src/browserconfig.xml,5,Replace tile icon path
+82,Browser Tile,Windows tile color,#da532c,src/browserconfig.xml,6,Set brand color for tile
